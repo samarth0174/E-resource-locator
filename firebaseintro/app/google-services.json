@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "425029727232",
+    "firebase_url": "https://fir-intro-bee29.firebaseio.com",
+    "project_id": "fir-intro-bee29",
+    "storage_bucket": "fir-intro-bee29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425029727232:android:94bc88d451155694",
+        "android_client_info": {
+          "package_name": "com.example.samar.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425029727232-j2hjpc0e3ch86emofjc6ekad4p36i472.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samar.firebaseintro",
+            "certificate_hash": "6650b961b7bb8aef4c1c8003a767bac10bb0ac1f"
+          }
+        },
+        {
+          "client_id": "425029727232-dbmrkq3au3bq41oln270ihmhme2vj9ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSPM3NeJIwDKPgXy5zEgMBm9Ct_tNph4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425029727232-dbmrkq3au3bq41oln270ihmhme2vj9ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

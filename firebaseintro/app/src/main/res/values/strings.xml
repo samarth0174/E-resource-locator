@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">E-Resource Locator</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginbutton">Login</string>
+    <string name="signout">Sign Out</string>
+    <string name="newuser">Create Account</string>
+
+    <string name="text_string">COMPUTER SCIENCE</string>
+    <string name="todo">TODO</string>
+    <string name="Selecttopic">Select Topic</string>
+    <string name="spinner_name">DATA STRUCTURES</string>
+    <string name="spinnername">TextView</string>
+    <string name="button">BOOKS/MATERIAL LINKS</string>
+    <string name="Video_links">Video Links</string>
+    <string name="prof">MATERIAL BY PROFFESIONALS</string>
+    <string name="Link">link</string>
+    <string name="Links">LinkDesc</string>
+    <string name="title_activity_navigate">Navigate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome To E resource Locator</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="textview">Choose Branch</string>
+    <string name="topicview">Choose Topic</string>
+    <string name="linkview">Choose Link</string>
+    <string name="subjectview">Choose Subject</string>
+
+
+</resources>
