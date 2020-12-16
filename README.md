@@ -3,11 +3,9 @@ Education based mobile application , helping students to get all resources & stu
 
 <img src="1.png"></img>
 
-<img src="2.png"></img> ## Pickup Resource type : Web Link/PDF/Video
+<img src="2.png"></img> <h3>Pickup Resource type : Web Link/PDF/Video</h3>
 
 <img src="3.png"></img>
 
 <img src="4.png"></img>
 
-<img src="5.png"></img>
-          
